@@ -46,8 +46,6 @@ Here are a few common use cases for `app.use()`:
 
 In summary, `app.use()` is a powerful method in Express.js that allows you to incorporate middleware into your application, enabling you to handle various aspects of the request-response cycle. It's a fundamental part of building robust and modular Express applications.
 
-Middleware in the context of software development typically refers to a piece of software that sits between two or more software applications or components and facilitates communication or adds additional functionality. In web development, middleware is often used in the context of frameworks like Express.js for Node.js or Django for Python. I'll explain how middleware works and how to create and use it using Express.js as an example.
-
 ### Real-world Example:
 
 Imagine you want to create middleware to check if a user is authenticated before allowing access to certain routes. Here's a simplified example:
